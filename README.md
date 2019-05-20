@@ -1,6 +1,6 @@
 # My Learning Tracker
 
-| Skill | 1 Introduction | 2 Basics | 3 Good | 4 Pretty Good | 5 Confident | 6 Awesome |
+| Skill | 1</br>Introduction | 2</br>Basics | 3</br>Good | 4</br>Pretty Good | 5</br>Confident | 6</br>Awesome |
 | :---  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |  :---:  | 
 | Unix  | ✅ | ✅ | | | | |
 | Git | ✅ | ✅ | | | | |
